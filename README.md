@@ -5,6 +5,7 @@ The project focuses on tracing network paths, resolving DNS information, and per
 
 This repository contains the original project files as they existed at the conclusion of the hackathon.
 
+This project landed me 3rd place as a solo team.
 ---
 
 ## Project Overview
